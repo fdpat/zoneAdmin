@@ -13,6 +13,7 @@
        <!-- jQuery (necessary for Bootstrap's JavaScript plugins) --> 
         <script src="js/jquery-2.1.1.min.js"></script> 
         <script src="libs/bootstrap/js/bootstrap.js"></script> 
+        <script src="css/cover.js"></script> 
 
     </head>
     <body>
